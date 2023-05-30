@@ -8,5 +8,5 @@ SETTINGS = {
         5: 'tom_h'
     },
     'TARGET_SHAPE': (256, 256),
-    'SAVED_MODEL_PATH': "./model/drum_transcriber.h5"
+    'SAVED_MODEL_PATH': "/content/DrumTranscriber/model/drum_transcriber.h5"
 }
